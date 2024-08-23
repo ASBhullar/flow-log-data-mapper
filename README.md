@@ -1,4 +1,4 @@
-# Flow Log Tagger
+# Flow Log Data Mapper
 
 This project provides a solution for parsing flow log data, tagging each entry based on a predefined lookup table, and generating detailed reports on the tagged data. The goal is to automatically categorize flow log entries by matching the destination port and protocol with entries in a lookup table.
 
